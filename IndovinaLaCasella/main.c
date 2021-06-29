@@ -84,7 +84,7 @@ for(int i=0; i<20; i++){
     for(i=0;i<50;i++){
         printf("*");
     }
-    printf("\n\n \t\t\t\t\tCONGRATULAZIONI AI VINCITORI! \n\n");
+    printf("\n\n \t\t\t\t\tCONGRATULAZIONI AL VINCITORE ! \n\n");
     printf("\t\t\t\t");
      for(i=0; i<50; i++){
         printf("*");
